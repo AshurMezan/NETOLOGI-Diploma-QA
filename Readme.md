@@ -1,4 +1,4 @@
-НАДО НЕ ЗАБЫТЬ СЮДА ВСТАВИТЬ ССЫЛКУ НА CI
+[![Build status](https://ci.appveyor.com/api/projects/status/dnxcodsycr6dayu5?svg=true)](https://ci.appveyor.com/project/AshurMezan/netology-diploma-qa)
 # Дипломный проект профессии «Тестировщик»
 
 ## Запуск SUT, авто-тестов и генерация репорта
