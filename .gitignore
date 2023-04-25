@@ -21,6 +21,7 @@ data/
 *.iml
 *.ipr
 out/
+.vscode
 
 ### NetBeans ###
 /nbproject/private/
